@@ -1,7 +1,10 @@
 package br.com.serratec.content;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Tipos {
-	public static void main(String[] args) {
+	public static void main(String[] args) {		
 
 		// TIPOS PRIMITIVOS
 
